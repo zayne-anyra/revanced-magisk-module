@@ -1,6 +1,6 @@
 {
-  "version": "v7.20.51",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/zayne-anyra/revanced-magisk-module/releases/download/1/music-revanced-magisk-v7.20.51-arm-v7a.zip",
+  "version": "v7.29.52 (patches: 5.9.0)",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/zayne-anyra/revanced-magisk-module/releases/download/3/music-revanced-magisk-v7.29.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/zayne-anyra/revanced-magisk-module/update/build.md"
 }
