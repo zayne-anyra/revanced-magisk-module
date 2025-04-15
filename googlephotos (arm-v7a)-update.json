@@ -1,6 +1,6 @@
 {
-  "version": "v7.22.0.739755607 (patches: 5.16.1)",
-  "versionCode": 10,
-  "zipUrl": "https://github.com/zayne-anyra/revanced-magisk-module/releases/download/10/googlephotos-revanced-magisk-v7.22.0.739755607-arm-v7a.zip",
+  "version": "v7.24.0.747539053 (patches: 5.20.0)",
+  "versionCode": 14,
+  "zipUrl": "https://github.com/zayne-anyra/revanced-magisk-module/releases/download/14/googlephotos-revanced-magisk-v7.24.0.747539053-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/zayne-anyra/revanced-magisk-module/update/build.md"
 }
