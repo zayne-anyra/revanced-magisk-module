@@ -1,6 +1,6 @@
 {
-  "version": "v8.31.51 (patches: 5.33.0)",
-  "versionCode": 30,
-  "zipUrl": "https://github.com/zayne-anyra/revanced-magisk-module/releases/download/30/music-revanced-magisk-v8.31.51-arm-v7a.zip",
+  "version": "v8.31.51 (patches 5.34.0)",
+  "versionCode": 31,
+  "zipUrl": "https://github.com/zayne-anyra/revanced-magisk-module/releases/download/31/music-revanced-magisk-v8.31.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/zayne-anyra/revanced-magisk-module/update/build.md"
 }
